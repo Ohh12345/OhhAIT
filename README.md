@@ -49,10 +49,10 @@ Focus on getting started.
   - Linear Regression
   - Logistic Regression
   - Convolutional Neural Network
-  - Long Short-Term Memory
+  - Long Short-Term Memoy
   
 ### 4 Deployment 
   - FastAPI + Docker
-  - Heroku + Github Actions
-  - Prometheus + Grafana
+  - Heroku + Github Action
+  - Prometheus + Graphana
   - AWS EC2
